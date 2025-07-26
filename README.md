@@ -5,12 +5,21 @@ This repository contains comprehensive Python learning materials organized into 
 ## Table of Contents
 
 1. [Basics](01_basics/)
-   - [Python Numbers](01_basics/python_numbers_notes.md)
-   - [Python Strings](01_basics/python_strings_notes.md)
-   - [Python Lists](01_basics/python_lists_notes.md)
-   - [Python Tuples](01_basics/python_tuples_notes.md)
-   - [Data Types Overview](01_basics/datatypes.md)
-   - [Example Programs](01_basics/)
+   - Setup and Environment
+     - [Python Setup and Basics](01_basics/python_basics_setup_notes.md)
+     - [Python Shell Usage](01_basics/python_shell_notes.md)
+   - Core Concepts
+     - [Python Numbers](01_basics/python_numbers_notes.md)
+     - [Python Strings](01_basics/python_strings_notes.md)
+     - [Python Lists](01_basics/python_lists_notes.md)
+     - [Python Tuples](01_basics/python_tuples_notes.md)
+     - [Python Dictionaries](01_basics/python_dictionaries_notes.md)
+   - Advanced Concepts
+     - [Python Data Types](01_basics/python_data_types_notes.md)
+     - [Mutable vs Immutable](01_basics/python_mutable_immutable_notes.md)
+     - [Python Internals](01_basics/python_internals_notes.md)
+     - [Python Internals Part 2](01_basics/python_internals_notes-2.md)
+   - Example Programs
      - [Hello Chai](01_basics/hello_chai.py)
      - [Numbers Demo](01_basics/numbers.py)
      - [Chai Demo](01_basics/chai.py)
